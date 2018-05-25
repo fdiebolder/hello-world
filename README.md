@@ -1,2 +1,9 @@
 # hello-world
-this is my first trial to do anything on gethub
+
+Hey there,
+
+I like flowers and colours. 
+I like to be crazy and eat fancy things.
+I'm a May child as I'm as green and lively as the May.
+
+
